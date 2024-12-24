@@ -118,7 +118,6 @@
   $mhsgabungan=['Najwa putri','siti sadiyah','Ainun nisa','Gea'];
   sort($mhsgabungan);
   ?>
-  https://github.com/Namee07/neon-student-list.git
   <center>
     <h3>Daftar mahasiswa gabungan</h3>
    <table border="1px">
